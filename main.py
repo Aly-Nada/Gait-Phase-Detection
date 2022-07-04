@@ -8,7 +8,6 @@ from kivy.uix.floatlayout import FloatLayout
 import requests
 import csv
 
-#hello
 
 class MainWidgetClass(Label):
     def update(self, *args):
